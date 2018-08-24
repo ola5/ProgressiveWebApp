@@ -1,1 +1,1 @@
-The project on progressive web app
+Progressive Web App
